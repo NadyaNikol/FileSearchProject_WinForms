@@ -1,0 +1,46 @@
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.exe.config
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.exe
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.pdb
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csprojAssemblyReference.cache
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.Form1.resources
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.Properties.Resources.resources
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.GenerateResource.cache
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.CoreCompileInputs.cache
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.exe
+D:\Моя папка\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.pdb
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.exe.config
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.exe
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.pdb
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csprojAssemblyReference.cache
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.Form1.resources
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.Properties.Resources.resources
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.GenerateResource.cache
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.exe
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.pdb
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.FormWords.resources
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.exe.config
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.exe
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\FileSearchProject_WF.pdb
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csprojAssemblyReference.cache
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.FormWords.resources
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.Properties.Resources.resources
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.GenerateResource.cache
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.CoreCompileInputs.cache
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.exe
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.pdb
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.FormStatistic.resources
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.CopyComplete
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.dll
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.xml
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.FormStatistic.resources
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.csproj.CopyComplete
+C:\Users\student\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.FormAbridgedStatistic.resources
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.FormMain.resources
+C:\Users\Nadya\Desktop\FileSearchProject_WF\FileSearchProject_WF\obj\Debug\FileSearchProject_WF.FormTopWords.resources
